@@ -1,0 +1,249 @@
+---
+title: "CURRICULUM VITAE"
+output: pdf_document
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+
+
+
+## Name:         
+
+Kenny Jing Xu PhD           
+
+## E-mail Address: 
+
+kenny.xu@duke-nus.edu.sg, kennyxu1983@hotmail.com
+
+## Contact (mobile):
+
+(+61) 0415132739-Australia
+
+## Postal Address:
+
+4 Eames Ave, Baulkham Hills, NSW, 2153, Australia
+
+## Current Position:
+
+Adjunct Research Fellow, *Centre for Quantitative Medicine, Duke-NUS Graduate Medical School, Singapore*. \hfill 2019-Present
+
+## Previous Position Held:
+
+Cancer Data Scientist, *Children Medical Research Institute, The University of Sydney, Australia*. \hfill 2019-2020
+
+Research Fellow (Supervisor: Associate Professor Bibhas Chakraborty) in Biostatistics, *Centre for Quantitative Medicine, Duke-NUS Graduate Medical School, Singapore*. \hfill 2017-2019 
+
+Biostatistician, *Singapore Clinical Research Institute, Singapore*. \hfill 2016-2017           
+             
+Biostatistician, *Memory Ageing and Cognition Centre, National University Of Singapore, Singapore*. \hfill 2015-2016  
+
+Biostatistician (Supervisor: Professor Henry Brodaty), *Dementia Collaborative Research Centre, The University of New South Wales, Australia*. 
+ \hfill 2013-2014 
+ 
+## Internship:
+
+Research Assistant (Supervisor: Professor Greg Taylor), *Taylor Fry, Sydney, Australia*. \hfill 2012-2013
+
+## Teaching Experience:
+
+Statistical supervisor, *Memory Ageing and Cognition Centre, National University Of Singapore, Singapore*. \hfill 2015-2016 
+
+Statistical supervisor, *Dementia Collaborative Research Centre, The University of New South Wales, Australia*. \hfill 2013-2014
+
+Tutor, *Department of Statistics, Macquarie University, Australia*. \hfill 2009-2013 
+
+## Research Grant Application Experience:
+Statistical collaborator, *School of Social Welfare, University of California, Berkeley, US*. \hfill 2019-2019
+
+Statistical advisor, *Centre for Quantitative Medicine, Duke-NUS Graduate Medical School, Singapore*. \hfill 2019-2019
+
+Statistical advisor, *Health Services and Systems Research, Duke-NUS Graduate Medical School, Singapore*. \hfill 2017-2017
+
+Statistical advisor, *Singapore Clinical Research Institute, Singapore*. \hfill 2016-2017           
+
+Statistical advisor, *Memory Ageing and Cognition Centre, National University Of Singapore, Singapore*. \hfill 2015-2016 
+
+Statistical advisor, *Dementia Collaborative Research Centre, The University of New South Wales, Australia*. \hfill 2013-2014           
+
+## Consulting Experience:
+
+Statistical consultant, *KroniKare-Advancing MedTech, Singapore*. \hfill 2018
+          
+Statistical consultant, *Health Services and Systems Research, Duke-NUS Graduate Medical School, Singapore*. \hfill 2017
+   
+Statistical consultant, *Singapore Clinical Research Institute, Singapore*. \hfill 2016
+ 
+Statistical consultant, *Iluka Resources, Australia*. \hfill 2012
+
+Statistical consultant, *Department of Education, Macquarie University, Australia*. \hfill 2011
+
+Statistical consultant, *Department of Accounting, Macquarie University, Australia*. \hfill  2010 
+
+## Citizenship: 
+
+Australian
+
+## Education:
+
+Doctor of Philosophy of Statistics (Supervisor: Associate Professor Jun Ma), Department of Mathematics and Statistics, Macquarie University, Australia. \hfill 2014
+
+Bachelor of Statistics (Honours, Class 1), Department of Mathematics and Statistics, Macquarie University, Australia. \hfill 2009
+
+## Certificate:
+
+Actuarial Part I exemption, Actuaries Institute, Australia. \hfill 2009
+
+## Prizes and Scholarship: 
+
+Best paper prize, *Variance*. \hfill 2016
+
+Travel Grant, *AOPMC conference, Manila, Philippines*. \hfill 2016 
+
+Postgraduate Scholarship, *Australian Mathematical Science Institute (AMSI)*. \hfill 2012-2013
+
+Australian Postgraduate Awards (APA). \hfill 2009-2012
+
+Postgraduate Research Fund, *Macquarie University*. \hfill 2011
+
+## Research Interest:
+
+Survival analysis, sequential randomized trial for adaptive intervention and applied statistics in medicine.  
+
+## Google Scholar:
+
+https://scholar.google.com.sg/citations?user=uxLxUrAAAAAJ&hl=en
+
+## Articles:
+**Xu, J.**, Yan, X., Figueroa, C., Williams, J.J. and Chakraborty, B. (2020). Multi-Level Micro-Randomized Trial for Detecting the Proximal Effect of a Mobile Application Messages on Physical Activity in Diabetes and Depression. arXiv, stat.ME, 2007.13741.
+
+Aguilera, A., Figueroa, C.A., Hernandez-Ramos, R., Sarkar, U., Cemballi, A.G., Gomez-Pathak, L., Miramontes, J., Avila-Garcia, P., Tov, E.Y., Chakraborty, B., Yan, X., **Xu, J.**, Modiri, A., Aggarwal, J., Williams, J.J., Lyles, C.R. (2020). An mHealth app using machine learning to increase physical activity in diabetes and depression: clinical trial protocol for the DIAMANTE Study. BMJ Open. **Accepted**
+
+**Xu, J.**, Bandyopadhyay, D., Mirzaeic, S., Michalowicz, B. and Chakraborty, B. (2020). SMARTp: A SMART design for non-surgical treatments of chronic periodontitis with spatially-referenced and non-randomly missing skewed outcome. Biometrical Journal, 62, 282-310. **Selected as a high-impact finding in the Behavioral and Social Sciences Research category, and included in the Director’s Report to the United States NIH National Advisory Dental and Craniofacial Research Council, Jan 2020**
+
+**Xu, J.**, Ma, J., Connors, M.H. and Brodaty, H. (2018) Proportional hazard model estimation under dependent censoring using copulas and penalized likelihood. Statistics in Medicine, 37(14), 2238-2251.
+
+**Xu, J.**, Ma, J. and Prvan, T. (2017) Nonparametric hazard estimation with dependent censoring using penalized likelihood and copula, Communication in Statistics-Theory and Methods, 46:22, 11383-11403.
+
+Tan, H., **Xu, J.**, Teoh, H.L., Chan, B., Seet, R., Ramani, D., Sharma, V.K., Chen, C., Dong, Y. (2017) Decline in Changing Montreal Cognitive Assessment (MoCA) Scores is Associated with Post-Stroke Cognitive Decline Determined by a Formal Neuropsychological Evaluation. PLOS ONE, 12(3), 1-8.  
+
+**Xu, J.** and Ma, J. (2016) Fitting finite mixture model by iterative Monte Carlo classification, Communication in Statistics-Theory and Methods, 46(13), 6684-6693.  
+
+Wan, E.Y.S., Shaik, M.A., Adhha, A., Ng, R.M.H, Thompson, C., Ong, I., **Xu, J.**, Chen, C.L., Dong, Y. (2016)  Pilot evaluation of the informant AD8 as a case finding instrument for cognitive impairment in general practitioner clinics of Singapore: A brief report. J Am Med Dir Assoc, 17(12), 1147-1150.  
+
+Suministrado, M.S.P., Shuang, E.W.Y., **Xu, J.**, et al. (2016) Post-stroke cognitive decline is independent of longitudinal changes in cerebral hemodynamics parameters. Journal of Neuroimaging. doi:10.1111/jon.12395
+
+Shaik, M.A., Khoo, C.H., Thiagarajah, A.G., Tan, N.C., Chen, C., **Xu, J.**, Dong, Y. (2016) Pilot evaluation of a dementia case finding clinical service using the informant AD8 for at-risk older adults in primary healthcare: A brief report.  Journal of the American Medical Directors Association, 17, 673.e5-8.
+
+Dong, Y., **Xu, J.**, et al. (2016) The Montreal Cognitive Assessment is superior to National Institute of Neurological Disease and Stroke-Canadian Stroke Network 5-minute protocol in Predicting Vascular Cognitive Impairment at 1 year. BMC Neurology, 16(46), 1-6. 
+
+Heffernan, M., Mather, K.A., **Xu, J.**, Assareh, A., Kochan, N.A., Reppermund, S., 
+Draper, B., Trollor, J., Sachdev, P. and Brodaty, H. (2016) Alcohol Consumption and Incident Dementia: Evidence from the Sydney Memory and Ageing Study. Journal of Alzheimer’s Disease, 52, 529-538.
+
+Chan, C.L., Shaik, A.M., **Xu, J.**, Xu, X., Chen, C., Dong, Y. (2016) The combined utility of a brief functional measure and performance-based screening test for case finding of cognitive impairment in primary healthcare. Journal of the American Medical Directors Association, 17, 372.e9-372.e11.
+
+Shaik, A.M., Chan, Q.L., **Xu, J.**, Xu, X., Hui, R., Chong. S., Chen, C.H.L., Dong, Y. (2016) Risk factors of cognitive impairment and brief cognitive tests to predict cognitive performance determined by a formal neuropsychological evaluation of primary healthcare patients. JAMDA, 17, 343-347.
+
+Taylor, G. and **Xu, J.** (2016) An empirical investigation of the value of finalisation count information to loss reserving. Variance, 10:1, 75-120.
+
+Dong, Y Koay, W.I., Yeo, L.L.L., Chen, C.L., **Xu, J.**, Seet, R.C.S. and Lim, E.C.H. (2015) Rapid Screening for Cognitive Impairment in Parkinson’s Disease: A Pilot Study. Parkinson’s Disease, 2015, 1-6.
+
+Connors, M.H., Sachdev, P., Kochan, N. A., **Xu, J.**, Draper, B., Brodaty, H. (2015) Cognition and Mortality in Older People: The Sydney Memory and Ageing Study. Journal of Age and Ageing, 44, 1049-1054.
+
+Brodaty, H., Connors, M.H., **Xu, J.**, Woodward, M. and Ames, D. (2015) The Course of Neuropsychiatric Symptoms in Dementia: A Three Year Longitudinal Study. Journal of the American Medical Directors Association, 16, 380-387.
+
+Low, L.F., Brodaty, H., Goodenough, B., Fletcher, J., **Xu, K.**, Casey, A.N., Fleming, R.,   Spitzer, P., Bell, J.P., Chenoweth, L. (2014). The effects of humour therapy on nursing home residents measured observational methods: the SMILE study. Journal of the American Medical Directors Association, 15, 8, 564-569.
+
+Brodaty, H., Connors, M.H., **Xu, J.**, Woodwards, M., Ames, D. (2014) Predictors of Institutionalization in Dementia: A three Year Longitudinal Study. Journal of Alzheimer’s Disease, Vol. 40(1), 221-226.
+
+McNeil, M., Gosper, M. and **Xu, J.** (2012) Assessment choices to target higher order learning outcomes: the power of academic empowerment. Research in Learning Technology, Vol. 20.
+
+
+## R Pacakges:
+survivalMPLdc: Fit Cox Proportional Hazard Regression Model under dependent right censoring via MPL and Archimedean Copulas: Version 0.1.0. **Xu, J.**, Ma, J., 2020 
+
+SMARTp: Sample Size for SMART Designs in Non-Surgical Periodontal Trials: Version 0.1.1. **Xu, J.**, Bandyopadhyay, D., Azevedo, D., Chakraborty, B., May 2019 https://cran.r-project.org/web/packages/SMARTp/index.html
+
+
+## R Shiny:
+SMARTp-SS Calculator: A Sample Size Calculator for the Sequential Multiple Assignment Randomized Trials for Periodontitis. **Xu, J.** and Bandyopadhyay, D. 2020. https://kennyxu.shinyapps.io/SMARTp-SS/
+
+MLMRT-SS Calculator: A Sample Size Calculator for the Multi-Level Micro-Randomised Trials. **Xu, J.** and Yan, X. 2020. https://kennyxu.shinyapps.io/mlmrt_shinyapps/
+
+## Conference Presentation:
+"A Multi-Level Micro-Randomized Trial for Detecting the Proximal Effect of a Mobile Application Messages on Physical Activity in Diabetes and Depression." Global Scientist Interdisciplinary Forum SUSTech 2020, Shenzhen, Guangdong, China.
+
+“A SMART design for non-surgical treatments of chronic periodontitis with spatially-referenced and non-randomly missing skewed outcomes.” ISCB 2018, Melbourne, Australia.
+
+“Proportional hazard model estimation under dependent censoring using copulas and penalized likelihood.” ECOSTA 2018, Hong Kong, China.
+
+“Neuropsychological profile of patients with Parkinson’s Disease in Singapore.” AOPMC 2016, Manila, Philippines.
+
+“The Decline Of The Montreal Cognitive Test Can Detect Post-stroke Cognitive Decline Determined By A Formal Neuropsychological Evaluation.” American Heart Association Conference 2015, Orlandor, USA.
+
+“Neuropsychological profile of patients with Parkinson’s Disease in Singapore.” INS/ASSBI Pacific Rim Conference 2015, Sydney, Australia.
+
+“An empirical investigation of the value of finalisation count information to loss reserving.” Accelerate Australian-AMSI 2013, Canberra, Australia. 
+
+“Cox proportional hazard model estimation under dependent censoring by maximum penalized likelihood.” The International Society for Clinical Biostatistics 2011, Ottawa, Canada.
+
+“Copula based non-parametric hazard estimation under dependent censoring by maximizing penalized likelihood.” Australian Statistical Conference 2010, Fremantle, Australia. 
+
+“Fitting finite mixture model by iterative Monte Carlo classification”.  SSAI's Young Statisticians Conference 2009, Sydney, Australia
+
+## Seminar Presentation:
+
+"SMARTp: A SMART design for non-surgical treatments of chronic periodontitis with spatially-referenced and non-randomly missing skewed outcomes", Centre for Quantitative Medicine, Duke-NUS Graduate Medical School, Singapore, 2019
+
+“Fitting finite mixture model by iterative Monte Carlo classification”, Department of Statistics, Macquarie University, Australia, 2009
+
+## Reviewer for Journals:
+
+Journal of Computational and Graphical Statistics, 2019
+
+## Computing Skill: 
+
+Microsoft, LaTeX, SQL, SPSS, STATA, Matlab, R, SAS, Windows and Mac  operating systems
+
+## Languages Skill: 
+ 
+English (fluent), Mandarin (native) and Cantonese (fluent) 
+
+## Referees:
+        
+Assoc. Prof. Bibhas Chakabroty\newline
+Centre for Quantitative Medicine\newline 
+Duke-NUS Medical School, 16985, Singapore\newline 
+Ph: +65 6576-7377, Mob: +65 91824514\newline
+Email: bibhas.chakraborty@duke-nus.edu.sg\newline
+
+Prof. Dipankar Bandyopadhyay\newline
+Department of Biostatistics,\newline
+Virginia Commonwealth University, Richmond, VA 23298-0032, USA\newline
+Ph: +1 804-827-2058, Mob: +1 843-513-8330\newline
+Email:  dbandyop@vcu.edu\newline
+
+Assoc. Prof.  Jun Ma\newline
+Department of Mathematics and Statistics\newline
+Macquarie University, Sydney, NSW, 2109, Australia\newline
+Ph: +61 (2) 9850-8548, Mob: +61 410309278\newline
+Email: jun.ma@mq.edu.au\newline 
+
+Prof. Henry Brodaty\newline
+Dementia Collaborative Research Centre Assessment and Better Care\newline
+The University of New South Wale, Sydney, NSW, 2052, Australia\newline
+Ph: +61 (2) 9385-2585, Mob: +61 434185939\newline
+Email: h.brodaty@unsw.edu.au\newline       
+
+Prof. Greg Taylor\newline
+UNSW Business School\newline 
+The University of New South Wale, Sydney, NSW, 2052, Australia\newline
+Ph: +61 (2) 9385-3391, Mob: +61 421338448\newline
+Email: greg_taylor60@hotmail.com\newline
+
+
+
+        
+
+
