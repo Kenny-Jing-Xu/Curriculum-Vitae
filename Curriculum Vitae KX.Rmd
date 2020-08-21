@@ -118,7 +118,7 @@ https://scholar.google.com.sg/citations?user=uxLxUrAAAAAJ&hl=en
 ## Articles:
 **Xu, J.**, Yan, X., Figueroa, C., Williams, J.J. and Chakraborty, B. (2020). Multi-Level Micro-Randomized Trial for Detecting the Proximal Effect of a Mobile Application Messages on Physical Activity in Diabetes and Depression. arXiv, stat.ME, 2007.13741.
 
-Aguilera, A., Figueroa, C.A., Hernandez-Ramos, R., Sarkar, U., Cemballi, A.G., Gomez-Pathak, L., Miramontes, J., Avila-Garcia, P., Tov, E.Y., Chakraborty, B., Yan, X., **Xu, J.**, Modiri, A., Aggarwal, J., Williams, J.J., Lyles, C.R. (2020). An mHealth app using machine learning to increase physical activity in diabetes and depression: clinical trial protocol for the DIAMANTE Study. BMJ Open. **Accepted**
+Aguilera, A., Figueroa, C.A., Hernandez-Ramos, R., Sarkar, U., Cemballi, A.G., Gomez-Pathak, L., Miramontes, J., Avila-Garcia, P., Tov, E.Y., Chakraborty, B., Yan, X., **Xu, J.**, Modiri, A., Aggarwal, J., Williams, J.J., Lyles, C.R. (2020). An mHealth app using machine learning to increase physical activity in diabetes and depression: clinical trial protocol for the DIAMANTE Study. BMJ Open. 10: e034723. doi:10.1136/bmjopen-2019-034723
 
 **Xu, J.**, Bandyopadhyay, D., Mirzaeic, S., Michalowicz, B. and Chakraborty, B. (2020). SMARTp: A SMART design for non-surgical treatments of chronic periodontitis with spatially-referenced and non-randomly missing skewed outcome. Biometrical Journal, 62, 282-310. **Selected as a high-impact finding in the Behavioral and Social Sciences Research category, and included in the Director’s Report to the United States NIH National Advisory Dental and Craniofacial Research Council, Jan 2020**
 
